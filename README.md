@@ -11,7 +11,7 @@ _Para su puesta en marcha se requiere:_
 Nombre de la BD: novedades
 collection: vacaciones
 ```
-_Insertar como minimo una coleccion:_
+_Insertar como minimo un documento:_
 ```
 {"empleado": "1","intercambio": "2-cloud"}
 ```
