@@ -22,6 +22,8 @@ public class ServicioCesta {
 		repositorioCesta.save(cesta);
 	}
 	
+	public void actualizarItemsEnCesta(Cesta cesta) {
+	}
 	
 
 }
